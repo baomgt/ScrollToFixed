@@ -1,4 +1,4 @@
-/*
+/* TEST
  * ScrollToFixed
  * https://github.com/bigspotteddog/ScrollToFixed
  *
